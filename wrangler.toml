@@ -1,0 +1,3 @@
+name = "69-checkin"   # ⚠️ 必须和 Cloudflare 上绑定的一致
+main = "worker.js"
+compatibility_date = "2026-03-19"
